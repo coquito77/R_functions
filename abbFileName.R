@@ -1,6 +1,3 @@
-## fuction to abbreviate stings e.g. file names of column names
-## it needs the package library(dplyr)
-
 
 abbFileName <- function(x) {
 
